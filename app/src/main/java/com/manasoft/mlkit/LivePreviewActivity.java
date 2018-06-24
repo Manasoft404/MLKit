@@ -32,11 +32,11 @@ import android.widget.ToggleButton;
 
 import com.google.android.gms.common.annotation.KeepName;
 import com.google.firebase.ml.common.FirebaseMLException;
-import com.google.firebase.samples.apps.mlkit.barcodescanning.BarcodeScanningProcessor;
-import com.google.firebase.samples.apps.mlkit.custommodel.CustomImageClassifierProcessor;
-import com.google.firebase.samples.apps.mlkit.facedetection.FaceDetectionProcessor;
-import com.google.firebase.samples.apps.mlkit.imagelabeling.ImageLabelingProcessor;
-import com.google.firebase.samples.apps.mlkit.textrecognition.TextRecognitionProcessor;
+import com.manasoft.mlkit.barcodescanning.BarcodeScanningProcessor;
+import com.manasoft.mlkit.custommodel.CustomImageClassifierProcessor;
+import com.manasoft.mlkit.facedetection.FaceDetectionProcessor;
+import com.manasoft.mlkit.imagelabeling.ImageLabelingProcessor;
+import com.manasoft.mlkit.textrecognition.TextRecognitionProcessor;
 
 import java.io.IOException;
 import java.util.ArrayList;

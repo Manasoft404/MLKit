@@ -37,12 +37,12 @@ import android.widget.PopupMenu.OnMenuItemClickListener;
 import android.widget.Spinner;
 
 import com.google.android.gms.common.annotation.KeepName;
-import com.google.firebase.samples.apps.mlkit.cloudimagelabeling.CloudImageLabelingProcessor;
-import com.google.firebase.samples.apps.mlkit.cloudlandmarkrecognition.CloudLandmarkRecognitionProcessor;
-import com.google.firebase.samples.apps.mlkit.cloudtextrecognition.CloudDocumentTextRecognitionProcessor;
+import com.manasoft.mlkit.cloudimagelabeling.CloudImageLabelingProcessor;
+import com.manasoft.mlkit.cloudlandmarkrecognition.CloudLandmarkRecognitionProcessor;
+import com.manasoft.mlkit.cloudtextrecognition.CloudDocumentTextRecognitionProcessor;
 
 
-import com.google.firebase.samples.apps.mlkit.cloudtextrecognition.CloudTextRecognitionProcessor;
+import com.manasoft.mlkit.cloudtextrecognition.CloudTextRecognitionProcessor;
 
 import java.io.IOException;
 import java.util.ArrayList;
